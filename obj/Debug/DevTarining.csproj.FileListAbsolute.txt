@@ -1,0 +1,11 @@
+C:\ACER_D\ENYA\UnitTest\DevTarining\DevTarining\bin\Debug\DevTarining.dll
+C:\ACER_D\ENYA\UnitTest\DevTarining\DevTarining\bin\Debug\DevTarining.pdb
+C:\ACER_D\ENYA\UnitTest\DevTarining\DevTarining\bin\Debug\nunit.framework.dll
+C:\ACER_D\ENYA\UnitTest\DevTarining\DevTarining\bin\Debug\nunit.framework.xml
+C:\ACER_D\ENYA\UnitTest\DevTarining\DevTarining\obj\Debug\DevTarining.dll
+C:\ACER_D\ENYA\UnitTest\DevTarining\DevTarining\obj\Debug\DevTarining.pdb
+C:\Igor\DevTarining\DevTarining\bin\Debug\DevTarining.dll
+C:\Igor\DevTarining\DevTarining\bin\Debug\DevTarining.pdb
+C:\Igor\DevTarining\DevTarining\bin\Debug\nunit.framework.xml
+C:\Igor\DevTarining\DevTarining\obj\Debug\DevTarining.dll
+C:\Igor\DevTarining\DevTarining\obj\Debug\DevTarining.pdb

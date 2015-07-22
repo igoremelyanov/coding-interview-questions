@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\ACER_D\ENYA\UnitTest\DevTarining\DevTarining\bin\Debug\DevTarining.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-09-22" time="15:52:41">
+  <environment nunit-version="2.6.2.12296" clr-version="4.0.30319.18444" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\ACER_D\ENYA\UnitTest\DevTarining\DevTarining\bin\Debug" machine-name="VAIO" user="IGOR" user-domain="VAIO" />
+  <culture-info current-culture="en-CA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\ACER_D\ENYA\UnitTest\DevTarining\DevTarining\bin\Debug\DevTarining.dll" executed="True" result="Success" success="True" time="0.547" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="DevTarining" executed="True" result="Success" success="True" time="0.444" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Exercise3_1" executed="True" result="Success" success="True" time="0.429" asserts="0">
+            <results>
+              <test-case name="DevTarining.Exercise3_1.FirstTry" executed="True" result="Success" success="True" time="0.129" asserts="0" />
+              <test-case name="DevTarining.Exercise3_1.Screen_Cod_For_Dev_Minded_QA_Guys" executed="True" result="Success" success="True" time="0.008" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

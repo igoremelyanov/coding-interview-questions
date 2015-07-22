@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ShowCheckBoxes="false">
+  <TopNode>[0-1003]C:\ACER_D\ENYA\UnitTest\DevTarining\DevTarining\bin\Debug\DevTarining.dll</TopNode>
+  <SelectedNode>[0-1002]DevTarining.Exercise3_1.Screen_Cod_For_Dev_Minded_QA_Guys</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1003]C:\ACER_D\ENYA\UnitTest\DevTarining\DevTarining\bin\Debug\DevTarining.dll" Expanded="true" />
+    <Node UniqueName="[0-1004]DevTarining" Expanded="true" />
+    <Node UniqueName="[0-1000]DevTarining.Exercise3_1" Expanded="true" />
+  </Nodes>
+</VisualState>
