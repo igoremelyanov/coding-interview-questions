@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="Get Rundom.cs" />
+    <Compile Include="HashTables.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

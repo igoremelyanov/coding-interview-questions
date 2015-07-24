@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingInterviewQuestions", "..\DevTarining\CodingInterviewQuestions.csproj", "{47BBD4CC-D297-4F38-BAC4-E151E9F56919}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingInterviewQuestions", "CodingInterviewQuestions.csproj", "{47BBD4CC-D297-4F38-BAC4-E151E9F56919}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
