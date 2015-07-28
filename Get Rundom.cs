@@ -13,7 +13,7 @@ namespace DevTarining
     {
         int _randomNumber;
         public string _randomString;
-        public const string Chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
+        public string Chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
 
         public class DataGenerator_RundomNumber
         {
